@@ -21,7 +21,7 @@
 
 1、打工人必备的周末倒计时,内涵彩蛋，会持续更新！说不定哪天打开会发现好玩的新东西。
    项目地址：[SweetOrange_Clock](https://github.com/sweetorange2022/SweetOrange_Clock)。  
-   <b>可以在线体验：[周末倒计时]</b>（https://sweetorange2022.github.io/SweetOrange_Clock/）  
+   <b>可以在线体验：[周末倒计时]（https://sweetorange2022.github.io/SweetOrange_Clock/）  </b>
    
 2、[手机版周末倒计时](https://github.com/sweetorange2022/Phone_Clock)
 
