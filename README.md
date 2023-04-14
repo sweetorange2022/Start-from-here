@@ -42,9 +42,9 @@
 这里对小白不友好，有一定基础的、希望学习的朋友们可以看下：  
 
 ### 2.1 cpp技术栈学习:
-  1 [Cpp必看书籍]()  
+1、 [Cpp必看书籍]()  
 
-  2 [CppPrimer课后练习](https://github.com/sweetorange2022/CppPrimer)
+2 、[CppPrimer课后练习](https://github.com/sweetorange2022/CppPrimer)
     
 
 ### 2.2 读研期间点云建图经典框架：(这部分大概不会再更新了)
