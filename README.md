@@ -23,7 +23,10 @@
    项目地址：[SweetOrange_Clock](https://github.com/sweetorange2022/SweetOrange_Clock)。  
    <b>可以在线体验：[周末倒计时]（https://sweetorange2022.github.io/SweetOrange_Clock/）  </b>
    
-2、[手机版周末倒计时](https://github.com/sweetorange2022/Phone_Clock)
+2、一个带表盘的时钟：[时钟＋表盘](https://sweetorange2022.github.io/clock/)　　
+
+3、手机版周末倒计时](https://github.com/sweetorange2022/Phone_Clock)  
+
 
 
 
@@ -54,10 +57,12 @@
    + [sc-lego-loam代码注释版，非常适合用于理解loam系列框架](https://github.com/sweetorange2022/sc-lego-loam)
    
 ### 2.3 工作中学习、fork的项目：
+
 1、安卓手机调试工具adb:[adb命令文档，非常丰富了](https://github.com/sweetorange2022/Adb_Cmd)  
 
 2、最好用的中文分词库-cppjieba! 这个项目在jiebacpp基础上加入了缺失的limonp库，可以直接编译运行。亲测效果非常鲁棒：[jiebacpp_ok](https://github.com/sweetorange2022/jiebacpp_ok)
 
+3、一个比较好用的字符识别库：tesseract。对英文、数字的识别率还是非常不错的，中文的准确率还有进步空间：[tesseract_ocr_demo ](https://github.com/sweetorange2022/tesseract_ocr_demo)
     
 ### 2.4 其他资料：
 1、软件设计师中级考试秘籍，[Software-Designer](https://github.com/sweetorange2022/Software-Designer)
