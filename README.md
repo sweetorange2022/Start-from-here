@@ -21,11 +21,11 @@
 
 1、打工人必备的周末倒计时,内涵彩蛋，会持续更新！说不定哪天打开会发现好玩的新东西。  
 + 项目地址：[SweetOrange_Clock](https://github.com/sweetorange2022/SweetOrange_Clock)
-+ 可以在线体验地址：[周末倒计时](https://sweetorange2022.github.io/SweetOrange_Clock/）  
++ 可以在线体验地址：[周末倒计时（电脑版在线）](https://sweetorange2022.github.io/SweetOrange_Clock)  
    
-2、一个带表盘的时钟：[时钟＋表盘](https://sweetorange2022.github.io/clock/)　　
+2、一个带表盘的时钟：[时钟（带表盘）](https://sweetorange2022.github.io/clock/)　　
 
-3、[手机版周末倒计时](https://github.com/sweetorange2022/Phone_Clock)  
+3、[周末倒计时（手机版）](https://github.com/sweetorange2022/Phone_Clock)  
 
 ### 1.2 收集的工具：
 
