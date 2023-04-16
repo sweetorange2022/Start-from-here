@@ -32,11 +32,11 @@
 
 2、 在线的 [举牌小人](http://idle-dog.github.io/upup/) 
 
-3、在线的图片文字识别，适合图片数量不多时使用:  [图文识别](https://web.baimiaoapp.com)
+3、在线的非常精准的图片中字符识别， [图文识别](https://web.baimiaoapp.com)，适合图片数量不多时使用，多了好像要注册，能简单的替代QQ截图识别。
 
-4、[诺基亚短信生成器](https://www.jiuwa.net/nokia/#tab1)
+4、[诺基亚短信生成器](https://www.jiuwa.net/nokia/#tab1)，满满的诺基亚时代感！
 
-5、系统搜索文件神器everything： [官网中文版](https://www.voidtools.com/zh-cn/)  
+5、系统搜索文件神器-everything： [官网中文版](https://www.voidtools.com/zh-cn/)  ，搜索速度比系统自带的搜索快"十万倍"！
 + [everything 配套教程](https://xbeta.info/everything-search-tool.htm)
 
 <br>
