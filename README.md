@@ -28,6 +28,7 @@
 3、[周末倒计时（手机版）](https://github.com/sweetorange2022/Phone_Clock)  
 
 ### 1.2 收集的工具：
+1、 用python进行文本分词并生成词云,能体现图片轮廓：[Word_cloud_filling](https://github.com/sweetorange2022/Word_cloud_filling)
 
 
 <br>
