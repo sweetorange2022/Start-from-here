@@ -48,7 +48,7 @@
    + [isc-loam ](https://github.com/sweetorange2022/isc-loam)
    + [sc-lego-loam代码注释版，非常适合用于理解loam系列框架](https://github.com/sweetorange2022/sc-lego-loam)
    
-### 2.3 工作中学习、fork的项目：
+### 2.3 工作中学习、fork的项目：(持续更新中．．．)
 
 1、安卓手机调试工具adb:[adb命令文档，非常丰富了](https://github.com/sweetorange2022/Adb_Cmd)  
 
@@ -56,7 +56,8 @@
 
 3、一个比较好用的字符识别库：tesseract。对英文、数字的识别率还是非常不错的，中文的准确率还有进步空间：[tesseract_ocr_demo ](https://github.com/sweetorange2022/tesseract_ocr_demo)
     
-### 2.4 其他资料：
+### 2.4 其他学习资料：
+
 1、软件设计师中级考试秘籍:[Software-Designer](https://github.com/sweetorange2022/Software-Designer)
    
      
