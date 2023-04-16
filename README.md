@@ -20,20 +20,12 @@
 ### 1.1 自研的工具：
 
 1、打工人必备的周末倒计时,内涵彩蛋，会持续更新！说不定哪天打开会发现好玩的新东西。
-   项目地址：[SweetOrange_Clock](https://github.com/sweetorange2022/SweetOrange_Clock)。  
-   <b>可以在线体验：[周末倒计时]（https://sweetorange2022.github.io/SweetOrange_Clock/）  </b>
+     >  项目地址：[SweetOrange_Clock](https://github.com/sweetorange2022/SweetOrange_Clock)。  
+     > 可以在线体验地址：[周末倒计时]（https://sweetorange2022.github.io/SweetOrange_Clock/）  
    
 2、一个带表盘的时钟：[时钟＋表盘](https://sweetorange2022.github.io/clock/)　　
 
-3、手机版周末倒计时](https://github.com/sweetorange2022/Phone_Clock)  
-
-
-
-
-
-
-
-
+3、[手机版周末倒计时](https://github.com/sweetorange2022/Phone_Clock)  
 
 ### 1.2 收集的工具：
 
@@ -65,6 +57,6 @@
 3、一个比较好用的字符识别库：tesseract。对英文、数字的识别率还是非常不错的，中文的准确率还有进步空间：[tesseract_ocr_demo ](https://github.com/sweetorange2022/tesseract_ocr_demo)
     
 ### 2.4 其他资料：
-1、软件设计师中级考试秘籍，[Software-Designer](https://github.com/sweetorange2022/Software-Designer)
+1、软件设计师中级考试秘籍:[Software-Designer](https://github.com/sweetorange2022/Software-Designer)
    
      
