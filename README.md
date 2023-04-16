@@ -52,7 +52,7 @@
 
 1、安卓手机调试工具adb:[adb命令文档，非常丰富了](https://github.com/sweetorange2022/Adb_Cmd)  
 
-2、最好用的中文分词库-cppjieba! 这个项目在jiebacpp基础上加入了缺失的limonp库，可以直接编译运行。亲测效果非常鲁棒：[jiebacpp_ok](https://github.com/sweetorange2022/jiebacpp_ok)
+2、最好用的中文分词库->cppjieba! 这个项目在jiebacpp基础上加入了缺失的limonp库，可以直接编译运行。亲测效果非常鲁棒：[jiebacpp_ok](https://github.com/sweetorange2022/jiebacpp_ok)
 
 3、一个比较好用的字符识别库：tesseract。对英文、数字的识别率还是非常不错的，中文的准确率还有进步空间：[tesseract_ocr_demo ](https://github.com/sweetorange2022/tesseract_ocr_demo)
     
