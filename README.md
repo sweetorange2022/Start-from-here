@@ -63,7 +63,7 @@
 
 2、最好用的中文分词库->cppjieba! 这个项目在jiebacpp基础上加入了缺失的limonp库，可以直接编译运行。亲测效果非常鲁棒： [jiebacpp_ok](https://github.com/sweetorange2022/jiebacpp_ok)
 
-3、一个比较好用的字符识别库：tesseract。对英文、数字的识别率还是非常不错的，中文的准确率还有进步空间：  [tesseract_ocr_demo ](https://github.com/sweetorange2022/tesseract_ocr_demo)
+3、一个比较好用的谷歌字符识别库：[tesseract](https://github.com/tesseract-ocr/tesseract)。英文、数字的识别率非常不错！中文准确率还有进步空间，自制demo: [tesseract_ocr_demo ](https://github.com/sweetorange2022/tesseract_ocr_demo)
     
 ### 2.4 其他学习资料：
 
