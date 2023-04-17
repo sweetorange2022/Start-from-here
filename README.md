@@ -2,20 +2,20 @@
 
 ## 本站内容:
  一、 技术栈 📡  
-      1.1 cpp技术栈学习   
-      1.2 读研期间点云建图经典框架：(这部分大概不会再更新了)  
-      1.3工作中学习、fork的项目  
+&ensp; &ensp;  1.1 cpp技术栈学习   
+&ensp; &ensp;  1.2 读研期间点云建图经典框架：(这部分大概不会再更新了)  
+&ensp; &ensp;  1.3 工作中学习、fork的项目  
+&ensp; &ensp;  1.4 其他
       
  二、 有用的、有趣的工具、网站🎮     
-      2.1 自制作工具  
-      2.2 收集的工具  
+&ensp; &ensp; 2.1 自制作工具  
+&ensp; &ensp; 2.2 收集的工具  
 
 ## 一、 技术项目📡：
-  
-这里对小白不友好，有一定基础的、希望学习的朋友们可以看下：  
+    
 
 ### 1.1 cpp技术栈学习:(持续更新中．．．)
-1、 [Cpp必看书籍]()  (整理中)
+1、 [Cpp必看书籍📓]()  (整理中)
 
 2 、[CppPrimer课后练习](https://github.com/sweetorange2022/CppPrimer)
     
@@ -51,13 +51,13 @@
 
 ### 2.1 自制工具：(持续更新中．．．)
 
-1、打工人必备的周末倒计时,内涵彩蛋，会持续更新！说不定哪天打开会发现好玩的新东西。  
+1、 ✅ 打工人必备的周末倒计时,内涵彩蛋，会持续更新！说不定哪天打开会发现好玩的新东西。  
 + 项目地址：[SweetOrange_Clock](https://github.com/sweetorange2022/SweetOrange_Clock)
 + 可以在线体验地址：[周末倒计时（电脑版在线）](https://sweetorange2022.github.io/SweetOrange_Clock)  
    
-2、一个带表盘的时钟：[时钟（带表盘）](https://sweetorange2022.github.io/clock/)　　
+2、 ✅ 一个带表盘的时钟：[时钟（带表盘）](https://sweetorange2022.github.io/clock/)　　
 
-3、[周末倒计时（手机版）](https://github.com/sweetorange2022/Phone_Clock)  
+3、 ✅ [周末倒计时（手机版）](https://github.com/sweetorange2022/Phone_Clock)  
 
 ### 2.2 收集的工具：(持续更新中．．．)
 1、 ✅ 用python进行文本分词并生成词云,能体现图片轮廓，☁️： [Word_cloud_filling](https://github.com/sweetorange2022/Word_cloud_filling)  
