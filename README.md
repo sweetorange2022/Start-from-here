@@ -29,7 +29,7 @@
    
 ### 1.3 工作中学习、fork的项目：(持续更新中．．．)
 
-1、安卓手机开发必会：安卓手机调试工具adb:  [adb命令文档，非常丰富了](https://github.com/sweetorange2022/Adb_Cmd)  
+1、安卓手机开发、测试必会：安卓手机调试工具adb:  [adb命令文档，非常丰富了](https://github.com/sweetorange2022/Adb_Cmd)  
 
 2、最好用的中文分词库->cppjieba! 这个项目在jiebacpp基础上加入了缺失的limonp库，可以直接编译运行。亲测效果非常鲁棒： [jiebacpp_ok](https://github.com/sweetorange2022/jiebacpp_ok)
 
