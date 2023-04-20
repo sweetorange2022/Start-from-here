@@ -15,7 +15,7 @@
     
 
 ### 1.1 cpp技术栈学习:(持续更新中．．．)
-1、 [Cpp必看书籍📕]()  (整理中)
+1、 [Cpp必看书籍📕](https://github.com/sweetorange2022/my-cs-book)  (整理中)
 
 2 、[CppPrimer课后练习](https://github.com/sweetorange2022/CppPrimer)
     
