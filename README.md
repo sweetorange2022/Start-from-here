@@ -68,7 +68,7 @@
 ### 2.2 工具箱：(持续更新中．．．)
 
 #### 2.2.1 在线版：
-1、 ✅ **DeepL:** 采用深度学习进行的翻译，确实比谷歌翻的准确好多，可以在线使用，重点是**免费**！[全世界最准确的翻译](https://www.deepl.com/translator)！ 👍
+1、 ✅ **DeepL:** 采用深度学习进行的翻译，确实比谷歌翻的准确好多，可以在线使用，**免费**！[全世界最准确的翻译](https://www.deepl.com/translator)！ 👍
 
 2、 ✅ **OCR文字识别：** 非常精准的图片字符识别， [图文识别](https://web.baimiaoapp.com)，每天都有免费额度，能替代QQ截图识别。  👍
 
@@ -87,7 +87,7 @@
 1、 ✅ **Everything：** 系统搜索文件神器🔍-everything： [官网中文版](https://www.voidtools.com/zh-cn/)  ，搜索速度比系统自带的搜索快"十万倍"！ 👍
 + [everything 配套教程](https://xbeta.info/everything-search-tool.htm)  
 
-2、 ✅ **7z：** 小巧好用的压缩工具，重点是没有广告！🔐 & 🔑：  [7Z](https://sparanoid.com/lab/7z/)  👍  
+2、 ✅ **7z：** 小巧好用的压缩工具，**没有广告~**  🔐 & 🔑：  [7Z](https://sparanoid.com/lab/7z/)  👍  
 
 <br>  
 
