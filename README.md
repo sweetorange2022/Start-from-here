@@ -19,7 +19,7 @@
 
 #### cpp基础书籍  
 
-+ [CppPrimer(中英双版)](https://pan.baidu.com/s/1wTDHer2dleMgEnYlQSt_5w?pwd=f2kc )，提取码：f2kc   
++ [CppPrimer(中英双版)](https://pan.baidu.com/s/1wTDHer2dleMgEnYlQSt_5w?pwd=f2kc )，提取码：```f2kc```  
 
 + [CppPrimer课后练习](https://github.com/sweetorange2022/CppPrimer)  
 
