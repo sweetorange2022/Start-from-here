@@ -15,9 +15,17 @@
     
 
 ### 1.1 cpp技术栈学习:(持续更新中．．．)
-1、 [Cpp必看书籍📕](https://github.com/sweetorange2022/my-cs-book)  (整理中)
+&ensp; &ensp; 1、 [Cpp必看书籍📕](https://github.com/sweetorange2022/my-cs-book)  (整理中)
 
-2 、[CppPrimer课后练习](https://github.com/sweetorange2022/CppPrimer)
+#### cpp基础书籍  
+
+&ensp; &ensp; [CppPrimer课后练习](https://github.com/sweetorange2022/CppPrimer)
+
+#### cpp进阶书籍  
+
+&ensp; &ensp; [《Effective C++》（精华笔记）](https://github.com/sweetorange2022/my-cs-book/blob/main/%E3%80%8AEffective%20C%2B%2B%E3%80%8B%E4%B8%AD%E7%9A%8455%E6%9D%A1%E5%BB%BA%E8%AE%AE.md)
+
+
     
 
 ### 1.2 读研期间点云建图部分经典框架：(这部分大概不会再更新了)  
