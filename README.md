@@ -14,12 +14,18 @@
 ## 一、 技术项目📡：
     
 
-### 1.1 cpp技术栈学习:(持续更新中．．．)
-&ensp; &ensp; 1、 [Cpp必看书籍📕](https://github.com/sweetorange2022/my-cs-book)  (整理中)
+### 1.1 cpp技术栈学习:(持续更新中．．．)  
+
+#### 1、 [Cpp必看书籍📕](https://github.com/sweetorange2022/my-cs-book)  (整理中)
 
 #### cpp基础书籍  
 
-&ensp; &ensp; [CppPrimer课后练习](https://github.com/sweetorange2022/CppPrimer)
+&ensp; &ensp; [CppPrimer(中英双版)](https://pan.baidu.com/s/1wTDHer2dleMgEnYlQSt_5w?pwd=f2kc )，提取码：f2kc   
+
+&ensp; &ensp; [CppPrimer课后练习](https://github.com/sweetorange2022/CppPrimer)  
+
+
+
 
 #### cpp进阶书籍  
 
@@ -30,7 +36,8 @@
 
 ### 1.2 读研期间点云建图部分经典框架：(这部分大概不会再更新了)  
 
-   + [点云库 PCL](https://github.com/PointCloudLibrary/pcl)
+   + [点云库 PCL（项目）](https://github.com/PointCloudLibrary/pcl)
+   + [点云库PCL学习教程（书）](https://pan.baidu.com/s/1149MQ_tLo8QIxfAKyBWjSg?pwd=pw01)，提取码：```pw01```
    + [sc-loam](https://github.com/sweetorange2022/sc-loam)
    + [isc-loam ](https://github.com/sweetorange2022/isc-loam)
    + [sc-lego-loam代码注释版，非常适合用于理解loam系列框架](https://github.com/sweetorange2022/sc-lego-loam)
