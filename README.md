@@ -79,7 +79,7 @@
 <br>  
 
 
-### 2.2 工具箱：(持续更新中．．．)
+### 2.2 工具箱：
 
 #### 2.2.1 在线版：
 1、 ✅ **DeepL:** 采用深度学习进行翻译，结果比谷歌翻的准确的多，可在线使用，**免费**！[全世界最准确的翻译](https://www.deepl.com/translator)！ 👍
@@ -97,7 +97,7 @@
 
 
 
-#### 2.2.2 软件版：(持续更新中．．．)
+#### 2.2.2 软件版：
 1、 ✅ **Everything：** 系统搜索文件神器🔍-everything： [官网中文版](https://www.voidtools.com/zh-cn/)  ，搜索速度比系统自带的搜索快"十万倍"！ 👍
 + [everything 配套教程](https://xbeta.info/everything-search-tool.htm)  
 
@@ -106,7 +106,7 @@
 <br>  
 
 
-#### 2.2.3 需编译版：(持续更新中．．．)
+#### 2.2.3 需编译版：
 
 1、 ✅ **词云：** 用python进行文本分词并生成词云,能体现图片轮廓，☁️： [Word_cloud_filling](https://github.com/sweetorange2022/Word_cloud_filling)    
 
