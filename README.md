@@ -45,7 +45,7 @@
 
 1、**ADB:** 安卓手机开发、测试必会：安卓手机调试工具adb:  [Best Adb Tutorials，包含的命令非常丰富了](https://github.com/sweetorange2022/Adb_Cmd)  👍
 
-2、**Cppjieba:** 最好用的中文分词库->cppjieba! 这个项目在jiebacpp基础上加入了缺失的limonp库，可以直接编译运行。亲测效果非常鲁棒： [jiebacpp_ok] (https://github.com/sweetorange2022/jiebacpp_ok) 👍
+2、**Cppjieba:** 这个项目在最好用的中文分词库->cppjieba基础上加入了缺失的limonp库，可直接编译使用。亲测效果鲁棒： [jiebacpp_ok](https://github.com/sweetorange2022/jiebacpp_ok) 👍
 
 3、**Tesseract:** 谷歌的字符识别库：[tesseract](https://github.com/tesseract-ocr/tesseract)。英文、数字的识别非常不错！中文识别率有待提升，自制demo: [tesseract_ocr_demo ](https://github.com/sweetorange2022/tesseract_ocr_demo)
     
@@ -112,7 +112,7 @@
 
 <br>  
 
-## 三、站外链接🔗：  
+## 三、站外链接 🔗：  
 + 1、[我的 CSDN](https://blog.csdn.net/sweetorange_)
 
 
