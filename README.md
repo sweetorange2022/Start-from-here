@@ -14,7 +14,7 @@
 ## 一、 技术项目📡：
     
 
-### 1.1 [ Cpp技术栈 📕](https://github.com/sweetorange2022/my-cs-book)  (整理中) 
+### 1.1 [ Cpp技术栈 📕](https://github.com/sweetorange2022/my-cs-book)  (持续整理中...) 
 
 
 #### cpp基础书籍  
