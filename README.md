@@ -33,7 +33,7 @@
 
     
 
-### 1.2 读研期间点云建图部分经典资料、框架：(这部分大概不会再更新了)  
+### 1.2 读研期间点云建图部分经典资料、框架： 
 
    + [点云库 PCL（项目）](https://github.com/PointCloudLibrary/pcl)
    + [点云库PCL学习教程（书）](https://pan.baidu.com/s/1149MQ_tLo8QIxfAKyBWjSg?pwd=pw01)，提取码：```pw01```
