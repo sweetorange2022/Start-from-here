@@ -50,7 +50,8 @@
 2、**Cppjieba:** 这个项目在最好用的中文分词库->cppjieba基础上加入了缺失的limonp库，可直接编译使用。亲测效果鲁棒： [jiebacpp_ok](https://github.com/sweetorange2022/jiebacpp_ok) 👍
 
 3、**Tesseract:** 谷歌的字符识别库：[tesseract](https://github.com/tesseract-ocr/tesseract)。英文、数字的识别非常不错！中文识别率有待提升，自制demo: [tesseract_ocr_demo ](https://github.com/sweetorange2022/tesseract_ocr_demo)
-    
+
+4、** Spdlog: ** 快速日志库：[spdlog](https://github.com/gabime/spdlog)。速度极快、只需头文件/编译的 C++ 日志库，可在项目中做快速部署，使用非常简单，适合多进程、多线程。
 ### 1.4 其他学习资料：(持续更新中．．．)
 
 1、软件设计师中级考试秘籍:  [Software-Designer](https://github.com/sweetorange2022/Software-Designer)
