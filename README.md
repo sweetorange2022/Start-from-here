@@ -17,7 +17,7 @@
 ### 1.1 [ Cpp技术栈 📕](https://github.com/sweetorange2022/my-cs-book) (持续更新中．．．)
 
 
-#### cpp基础书籍  
+#### cpp基础  
 
 + [CppPrimer(中英双版)](https://pan.baidu.com/s/1wTDHer2dleMgEnYlQSt_5w?pwd=f2kc )，提取码：```f2kc```  
 
@@ -26,10 +26,11 @@
 
 
 
-#### cpp进阶书籍  
+#### cpp进阶 
 
 + [《Effective C++》（精华笔记）](https://github.com/sweetorange2022/my-cs-book/blob/main/%E3%80%8AEffective%20C%2B%2B%E3%80%8B%E4%B8%AD%E7%9A%8455%E6%9D%A1%E5%BB%BA%E8%AE%AE.md)
 
++ [《C++ 核心指南》](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 
     
 
