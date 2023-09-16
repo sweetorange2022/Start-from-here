@@ -32,7 +32,7 @@
 
 + [《C++ 核心指南》](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 
-+ 现代C++ 教程：modern-cpp-tutorial  [项目地址（英文版）](https://github.com/changkun/modern-cpp-tutorial) 、 [中文版](https://changkun.de/modern-cpp/zh-cn/00-preface/)
++ &ensp; 现代C++ 教程：modern-cpp-tutorial  [项目地址（英文版）](https://github.com/changkun/modern-cpp-tutorial) 、 [中文版](https://changkun.de/modern-cpp/zh-cn/00-preface/)
 .
     
 
